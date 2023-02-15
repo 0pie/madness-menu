@@ -1,2 +1,2 @@
 # madness-menu
-An undetected fivem mod menu written in Lua
+An original fivem mod menu written in Lua
