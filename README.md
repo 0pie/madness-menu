@@ -1,2 +1,3 @@
 # madness-menu
-An original fivem mod menu written in Lua
+An original fivem mod menu written in Lua\
+Yes everything is obfuscated
